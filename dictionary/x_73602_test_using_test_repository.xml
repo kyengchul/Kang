@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Test Repository" max_length="40" name="x_73602_test_using_test_repository" type="collection">
+        <element label="aaa" max_length="40" name="aaa" type="string"/>
+        <element label="bbb" max_length="40" name="bbb" type="string"/>
+        <element label="ccc" max_length="40" name="ccc" type="string"/>
+    </element>
+</database>
