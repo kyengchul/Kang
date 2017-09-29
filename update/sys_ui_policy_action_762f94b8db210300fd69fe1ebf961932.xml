@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <disabled>ignore</disabled>
+        <field>aaa</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-09-29 01:59:57</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>762f94b8db210300fd69fe1ebf961932</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>aaa</sys_name>
+        <sys_package display_value="Test Using Repository" source="x_73602_test_using">f61b5874db210300fd69fe1ebf9619cb</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Test Using Repository">f61b5874db210300fd69fe1ebf9619cb</sys_scope>
+        <sys_update_name>sys_ui_policy_action_762f94b8db210300fd69fe1ebf961932</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-09-29 01:59:57</sys_updated_on>
+        <table>x_73602_test_using_test_repository</table>
+        <ui_policy display_value="Set madatory field to aaa">4ebe90b8db210300fd69fe1ebf9619cf</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+</record_update>
